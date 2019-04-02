@@ -8,7 +8,8 @@
 	"instvars" : [
 		"text",
 		"created_at",
-		"user"
+		"user",
+		"reactions"
 	],
 	"name" : "CuooraMessage",
 	"type" : "normal"
