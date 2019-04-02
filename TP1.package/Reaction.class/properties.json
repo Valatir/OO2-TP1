@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"kind",
+		"created_at",
+		"user"
+	],
+	"name" : "Reaction",
+	"type" : "normal"
+}

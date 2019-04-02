@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "CuooraMessage",
+	"category" : "TP1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"user",
+		"topics"
+	],
+	"name" : "Question",
+	"type" : "normal"
+}

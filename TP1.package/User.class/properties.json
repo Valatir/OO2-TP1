@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP1",
+	"classinstvars" : [
+		"questions",
+		"created_at"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"followers",
+		"followed",
+		"topics",
+		"answers",
+		"questions",
+		"username",
+		"password",
+		"created_at"
+	],
+	"name" : "User",
+	"type" : "normal"
+}

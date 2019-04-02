@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"created_at"
+	],
+	"name" : "CuooraMessage",
+	"type" : "normal"
+}
