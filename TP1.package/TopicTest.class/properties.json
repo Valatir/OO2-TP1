@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TP1",
+	"classinstvars" : [
+		"topic"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"topic"
+	],
+	"name" : "TopicTest",
+	"type" : "normal"
+}
