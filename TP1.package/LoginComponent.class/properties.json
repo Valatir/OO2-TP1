@@ -1,17 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "WAComponent",
 	"category" : "TP1",
-	"classinstvars" : [
-		"singleton"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"users",
-		"questions",
-		"topics"
+		"username",
+		"password"
 	],
-	"name" : "Cuoora",
+	"name" : "LoginComponent",
 	"type" : "normal"
 }
