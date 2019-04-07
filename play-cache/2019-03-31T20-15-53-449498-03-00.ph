@@ -1,1 +1,1 @@
-DateAndTime now
+Cuoora singleton login: 'Pepe' with: 1234.true and: false1 = 
